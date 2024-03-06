@@ -8,10 +8,13 @@ Rolling a 1 on the die ends the current player's turn, forfeiting their accumula
 Players can choose to "Hold" to add their round points to their total score and pass the turn to the opponent.
 The first player to reach or exceed a set score (e.g., 100 points) wins the game.
 Simple and intuitive user interface for an enjoyable gaming experience.
+
 Technologies Used:-  
 HTML
 CSS
 JavaScript
+
+
 How to Play:-  
 Open the game in a web browser or visit the game's website.
 Enter the names of Player 1 and Player 2.
